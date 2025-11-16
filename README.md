@@ -1,7 +1,7 @@
 ## Hi👋 I am Suchithra S
 
 # 💫 About Me:
-🌱 I'm Currently Learning DATA ANALYSIS<br>🙎🏻‍♀️ I'm Currently a Student<br>💻 All of my projects are available in [![GITHUB](https://github.com/Suchithra-S1812)]<br>💭 Ask me about Programming, Data Analysis <br>📫 Reach out me at suchitras1218@gmail.com
+🌱 I'm Currently Learning DATA ANALYSIS<br>🙎🏻‍♀️ I'm Currently a Student<br>💻 All of my projects are available in [[GITHUB](https://github.com/Suchithra-S1812)]<br>💭 Ask me about Programming, Data Analysis <br>📫 Reach out me at suchitras1218@gmail.com
 
 
 ## 🌐 Socials:
